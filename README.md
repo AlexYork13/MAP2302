@@ -1,0 +1,1 @@
+This repository contains additional course files for UF MAP2302 Elementary Differential Equations.  Individual folders are linked in our canvas course and can be used to access files for review or study.
